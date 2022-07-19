@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(134, 201, 255);
+    color:rgb(100, 136, 255);
+}
+
+.heading {
+    font-size: larger;
+    font-style: normal;
+    width: 80%;
+}
+
+.name_of_objects {
+    color: rgb(160, 44, 255);
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name {
+    color: blueviolet;
+}
+
+#result_object_accuracy {
+    color: blueviolet;
+}
